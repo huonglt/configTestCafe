@@ -1,0 +1,14 @@
+.mainBlock {
+    line-height: 36px;
+    border: 1px solid blue;
+    display: flex;
+}
+
+.iconBlock {
+    background-image: url("../../images/infoIcon.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 24px;
+    height: 24px;
+    margin-left: auto;
+}
